@@ -1,5 +1,5 @@
 # cryptoAGI
-cryptocurrency autonomous general intelligence blockchain solututions
+cryptocurrency autonomous general intelligence blockchain solutions
 
 
 cryptoAGI Project
